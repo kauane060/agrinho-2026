@@ -1,4 +1,4 @@
-# 🌱 Agrinho 2026
+#  Agrinho 2026
 
 ## Agro Forte, Futuro Sustentável: Equilíbrio entre Produção e Meio Ambiente
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 👩‍🎓 Informações
+##  Informações
 
 **Aluna:** Kauane Vitória
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 📖 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido para o Concurso Agrinho 2026 com o objetivo de demonstrar como a tecnologia pode contribuir para uma agricultura mais eficiente e sustentável.
 
@@ -27,7 +27,7 @@ Além disso, o projeto possui um simulador interativo que demonstra como o uso d
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 - Demonstrar a importância da Agricultura de Precisão.
 - Incentivar o uso consciente da água.
@@ -38,7 +38,7 @@ Além disso, o projeto possui um simulador interativo que demonstra como o uso d
 
 ---
 
-## 💻 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -46,7 +46,7 @@ Além disso, o projeto possui um simulador interativo que demonstra como o uso d
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Faça o download ou clone este repositório.
 2. Abra o arquivo **index.html** em qualquer navegador.
@@ -54,7 +54,7 @@ Além disso, o projeto possui um simulador interativo que demonstra como o uso d
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 agrinho2026
@@ -66,13 +66,13 @@ agrinho2026
 
 ---
 
-## 🌎 Sustentabilidade
+##  Sustentabilidade
 
 A utilização de tecnologias digitais na agricultura permite reduzir desperdícios, aumentar a produtividade e preservar os recursos naturais, contribuindo para um futuro mais sustentável.
 
 ---
 
-## 📚 Referências
+##  Referências
 
 - Material do Concurso Agrinho 2026.
 - EMBRAPA.
